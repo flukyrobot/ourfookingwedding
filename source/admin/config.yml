@@ -4,3 +4,8 @@ backend:
   branch: master # Branch to update
 
 media_folder: "source/images"
+collections:
+  - name: ourfookingwedding
+    label: ourfookingwedding
+    folder: "public"
+    create: true
