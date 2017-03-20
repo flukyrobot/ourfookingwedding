@@ -2,4 +2,5 @@ backend:
   name: github
   repo: flukyrobot/ourfookingwedding # Path to your Github repository
   branch: master # Branch to update
-  media_folder: "source/images"
+
+media_folder: "source/images"
